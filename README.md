@@ -21,4 +21,5 @@ Using Kaggle FER2013 dataset to train our model by Tensorflow Keras. Furthermore
 ## Awards
 - Merit Award of 2022 AI Cloud Contest (2022年AI智能雲端運算應用競賽), presented by Taiwan Space Agency (財團法人國家實驗研究院-國家太空中心)
 
-## What I have learned
+## What did I learned
+This is the first time I use Tensorflow Keras and CNN to build the model, it's pretty fun! And also, boundary conditions and exeption handling is essential in this project.
