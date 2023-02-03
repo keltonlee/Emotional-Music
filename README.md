@@ -11,6 +11,9 @@ Using Kaggle FER2013 dataset to train our model by Tensorflow Keras. Furthermore
 
 <img width="550" alt="截圖 2023-01-26 下午7 38 58" src="https://user-images.githubusercontent.com/68526411/214826652-de37334f-0e2d-4b3f-97f2-4cf2afaf54e7.png">
 
+## Tools and Techniques
+Python, Tensorflow Keras
+
 ## Details
 (1) If the music ends?  
   A: The music will keep on moving to the next one by detecting the length of the music to pre-load the next music into our application.
